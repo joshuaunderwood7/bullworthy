@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# price_retrieval.py
+# priceRetrieval.py
 import datetime
 import MySQLdb as mdb
 import urllib2

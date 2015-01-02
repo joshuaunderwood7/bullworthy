@@ -1,6 +1,7 @@
 #! /usr/bin/python
 # -*- coding: utf-8 -*-
 
+# snp500scrape.py
 import datetime
 import lxml.html
 import MySQLdb as mdb
